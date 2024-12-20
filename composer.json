@@ -1,0 +1,19 @@
+{
+    "name": "anvil/heat",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anvil\\Heat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anvilm",
+            "email": "211anvil112@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.3"
+    }
+}
